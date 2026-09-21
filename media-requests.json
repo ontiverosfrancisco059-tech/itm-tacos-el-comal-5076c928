@@ -1,0 +1,160 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "hero-banner",
+      "page": "home",
+      "section": "hero",
+      "category": "custom",
+      "label": "Hero banner principal del restaurante",
+      "theme": "warm inviting taco restaurant",
+      "query": "Mexican taqueria food spread on table warm lighting overhead shot",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-tacos-comal",
+      "page": "menu",
+      "section": "featured-dishes",
+      "category": "dish",
+      "label": "Tacos al comal - platillo insignia",
+      "theme": "authentic Mexican tacos on comal",
+      "query": "tacos being cooked on a comal griddle street food Mexico close up",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-tacos-pastor",
+      "page": "menu",
+      "section": "featured-dishes",
+      "category": "dish",
+      "label": "Tacos al pastor",
+      "theme": "vibrant al pastor tacos",
+      "query": "al pastor tacos with pineapple cilantro onion Mexican street food plating",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-tacos-asada",
+      "page": "menu",
+      "section": "featured-dishes",
+      "category": "dish",
+      "label": "Tacos de carne asada",
+      "theme": "grilled meat tacos",
+      "query": "carne asada tacos with lime Mexican food photography",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-guacamole",
+      "page": "menu",
+      "section": "appetizers",
+      "category": "dish",
+      "label": "Guacamole en molcajete",
+      "theme": "fresh traditional guacamole",
+      "query": "fresh guacamole served in molcajete with chips Mexican appetizer",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-quesadilla",
+      "page": "menu",
+      "section": "menu-items",
+      "category": "dish",
+      "label": "Quesadilla mexicana",
+      "theme": "golden crispy quesadilla",
+      "query": "quesadilla mexicana cheese melting on comal golden crispy tortilla",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "ambiance-interior",
+      "page": "about",
+      "section": "ambiance",
+      "category": "place",
+      "label": "Interior acogedor del restaurante",
+      "theme": "warm Mexican taqueria interior",
+      "query": "cozy Mexican taqueria interior warm lighting colorful decor wooden tables",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "hero-tortillas",
+      "page": "home",
+      "section": "feature",
+      "category": "custom",
+      "label": "Tortillas hechas a mano",
+      "theme": "artisanal tortilla making",
+      "query": "hands making fresh corn tortillas traditional Mexican cooking",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-assorted",
+      "page": "gallery",
+      "section": "gallery-grid",
+      "category": "gallery",
+      "label": "Galería de platillos surtidos",
+      "theme": "assorted Mexican food platter",
+      "query": "assorted Mexican tacos platter colorful food photography table setting",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "dish-salsa",
+      "page": "menu",
+      "section": "sides",
+      "category": "dish",
+      "label": "Salsas artesanales",
+      "theme": "colorful Mexican salsas",
+      "query": "colorful Mexican salsas in small bowls red green habanero",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "place-hopelchen",
+      "page": "home",
+      "section": "location",
+      "category": "place",
+      "label": "Vista de Hopelchen Campeche",
+      "theme": "small town Campeche Mexico",
+      "query": "Hopelchen Campeche Mexico town entrance sign Yucatan peninsula",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "pattern-divider",
+      "page": "home",
+      "section": "footer",
+      "category": "custom",
+      "label": "Patrón decorativo mexicano",
+      "theme": "Mexican folk art pattern",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "bg-texture-warm",
+      "page": "home",
+      "section": "testimonials",
+      "category": "custom",
+      "label": "Textura de fondo cálida",
+      "theme": "warm rustic texture",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
